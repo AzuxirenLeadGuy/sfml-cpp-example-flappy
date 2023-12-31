@@ -1,0 +1,5 @@
+bin/
+.cache/
+.clang*
+compile_commands.json
+.bear-config.json
